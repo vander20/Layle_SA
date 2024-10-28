@@ -16,10 +16,7 @@ body {
     justify-content: space-between;
     padding: 1em;
     background-color: #3a86ff;
-}
-
-.logo img {
-    max-height: 100px;
+    height: 10rem;
 }
 
 .title h1 {
